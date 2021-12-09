@@ -1,0 +1,46 @@
+.logo{
+    width: 180px;
+
+}
+.redes{
+    width: 30px;
+}
+h1{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
+#text{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-decoration:underline;
+
+}
+#personaje{
+    width: 300px;
+    height: 450px;
+}
+#name{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    background-color: yellowgreen;
+    font-size: 40px;
+}
+.img-thumbnail{
+    width: 400px;
+    height: 200px;
+}
